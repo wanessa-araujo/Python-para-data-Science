@@ -1,2 +1,2 @@
-# Python-para-data-Science
-Todos os projetos que desenvolvi estudando a linguagem Python desde os conceitos básicos ao avançado
+# Python-para-Data-Science-curso-Alura
+Todos os projetos desenvolvidos em sala de aula pela plataforma alura, estes projetos foram feitos acompanhando o professor que lecionava a materia.
